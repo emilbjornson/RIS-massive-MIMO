@@ -11,21 +11,7 @@ The package contains a simulation environment, based on Matlab, that reproduces 
 
 ## Abstract of Article
 
-This paper considers wireless uplink information and downlink power transfer in cell-free massive
-multiple-input multiple-output systems. The single-antenna user
-equipments (UEs) utilize the energy harvested in the downlink to transmit uplink pilot and information signals to the
-multiple-antenna access points (APs). We consider Rician fading
-and maximum ratio processing based on either linear minimum
-mean-squared error (LMMSE) or least-squares (LS) channel estimation. We derive the average harvested energy by using a practical non-linear energy harvesting circuit model for both coherent
-and non-coherent transmission schemes. Furthermore, the uplink
-spectral efficiency (SE) is derived for all the considered methods
-and the max-min fairness problem is cast where the optimization
-variables are the AP and UE power control coefficients together
-with the large-scale fading decoding vectors. The objective is to
-maximize the minimum SE of the UEs’ under APs’ and UEs’
-transmission power constraints. A novel alternating optimization
-algorithm with guaranteed convergence and improvement at each
-step is proposed to solve the highly-coupled non-convex problem.
+Reconfigurable intelligent surfaces (RISs) consist of many passive elements of metamaterials whose impedance can be controllable to change the characteristics of wireless signals impinging on them. Channel estimation is a critical task when it comes to the control of a large RIS when having a channel with a large number of multipath components. In this paper, we derive Bayesian channel estimators for two RIS-assisted massive multiple-input multiple-output (MIMO) configurations: i) the short-term RIS configuration based on the instantaneous channel estimates; ii) the long-term RIS configuration based on the channel statistics. The proposed methods exploit spatial correlation characteristics at both the base station and the planar RISs, and other statistical characteristics of multi-specular fading in a mobile environment. Moreover, a novel heuristic for phase-shift selection at the RISs is developed. A computationally efficient fixed-point algorithm, which solves the max-min fairness power control optimally, is proposed. Simulation results demonstrate that the proposed uplink RIS-aided framework improves the spectral efficiency of the cell-edge mobile user equipments substantially in comparison to a conventional single-cell massive MIMO system. The impact of several channel effects are studied to gain insight about when the channel estimation, i.e., the short-term configuration, is preferable in comparison to the long-term RIS configuration to boost the spectral efficiency.
 
 ## Content of Code Package
 
