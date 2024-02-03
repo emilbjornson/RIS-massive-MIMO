@@ -3,7 +3,7 @@
 Is Channel Estimation Necessary to Select Phase-Shifts for RIS-Assisted Massive MIMO?
 ==================
 
-This is a code package is related to the following scientific article:
+This code package is related to the following scientific article:
 
 Özlem Tuğfe Demir and Emil Björnson, “[Is Channel Estimation Necessary to Select Phase-Shifts for RIS-Assisted Massive MIMO?](https://ieeexplore.ieee.org/document/9786573
 ),” IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9537-9552, November 2022, doi: 10.1109/TWC.2022.3177700.
